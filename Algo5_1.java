@@ -18,7 +18,7 @@ public class Algo5_1 {
 //            System.out.println(col);
             short mine = sc3.nextShort();
             String[][] arr = new String[raw][col];
-//            boolean b = mine < ((raw * col) - 9);
+//            boolean b = mine < ((raw * col) - 8);
 //            System.out.println(b);
             if (mine > ((raw * col) - 9)) {
 
